@@ -9,22 +9,22 @@ Abone sınıfı, Kullanici sınıfını genişletir ve kullanıcının sepetinde
 # Outputs
 ![image](https://github.com/user-attachments/assets/9007c3bb-8d67-4566-bc43-07e709973402)
 
-
+-----------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/10db2171-b62a-4d1c-bb71-6eb89e50cb41)
 
-
+-----------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/1a69ee8f-066d-4645-ba4a-c75fa26e4f50)
 
-
+-----------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/4cfa2aaa-7607-4562-99d0-8bc7e145268f)
 
-
+-----------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/b27a7496-3349-452e-aa24-ccf69ddb149e)
 
 
-
+-----------------------------------------------------------------------------------------------
 
